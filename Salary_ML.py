@@ -11,7 +11,7 @@ def clean_data(df):
     INPUT
     df - pandas dataframe
 
-    OUTPUT
+    OUTPUT - Comments
     X - A matrix holding all of the variables you want to consider when predicting the response
     y - the corresponding response vector
 
